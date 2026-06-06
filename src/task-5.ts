@@ -9,4 +9,3 @@ function logStatus(status: "loading" | "success" | "error"): void {
 }
 
 logStatus("loading");
-
